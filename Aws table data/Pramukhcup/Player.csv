@@ -1,0 +1,151 @@
+"playerId";"firstName";"lastName";"age";"streetAddr";"city";"state";"zipcode";"cricClubId";"playerType";"paymentMethod";"tshirtSize";"zoneName";"teamId";"createTime";"lastUpdatedTime";"availabilityCode";"contactNo";"emailId";"lastYearTeamName";"auctionPoint";"tournamentId"
+1;"SANDIP";"DHUMMAD";37;"16 McKinley street";"Edison";"";8820;"526103";"TEST";"";"Small";"Edison High School";6;"2018-04-22 13:00:25";"2018-04-22 13:00:25";"";"7325127705";"sandipmit@gmail.com";"";1000;1
+2;"BHUSHAN";"BATHANI";34;"10 berkley blvd";"iselin";"";8830;"763618";"TEST";"";"Large";"Avenel";3;"2018-04-22 13:07:08";"2018-04-22 13:07:08";"";"7323976584";"bkbathani@gmail.com";"";100;1
+3;"MANISH";"PATEL";35;"Winding Rd";"Iselin ";"";8830;"549725";"TEST";"";"Small";"Iselin South";4;"2018-04-23 10:13:11";"2018-04-23 10:13:11";"";"5513584163";"mjpatel1283@gmail.com";"";1200;1
+4;"MITUL";"PATEL";34;"50 Chain O Hills Road";"Iselin";"";8830;"792468";"TEST";"";"Large";"Iselin South";2;"2018-04-23 16:56:28";"2018-04-23 16:56:28";"";"6507200641";"mitul_pat@yahoo.com";"";2000;1
+7;"SHISHIR";"PATEL";43;"43 Mohawk Trl";"Branchburg ";"";8876;"536264";"TEST";"";"Medium";"Bridgewater";3;"2018-04-26 12:49:21";"2018-04-26 12:49:21";"";"9085003199";"Patel.shishir@gmail.com";"";700;1
+8;"PRITESH";"PATEL";40;"35 Lilac Way";"Piscataway";"";8854;"845681";"TEST";"";"Medium";"Possumtown Road";5;"2018-05-04 01:52:36";"2018-05-04 01:52:36";"";"7322660185";"pitupatel@hotmail.com";"";800;1
+9;"SAMEER";"BHATT";42;"1801 Raspberry Court ";"Edison ";"";8817;"552214";"TEST";"";"XL";"Kilmer Road";8;"2018-05-04 02:25:28";"2018-05-04 02:25:28";"";"9739788219";"Samkom143@outlook.com";"";300;1
+10;"AKSHAR";"PATEL";23;"1441 saint georges ave";"colonia";"";7067;"845741";"TEST";"";"Small";"Avenel";9;"2018-05-04 02:34:40";"2018-05-04 02:34:40";"";"7327158802";"aksharpatel2007@gmail.com";"";2000;1
+11;"AAKASHKUMAR";"PATEL";24;"1103 Murray st";"Avenel";"";7001;"96";"TEST";"";"XL";"Avenel";6;"2018-05-04 02:34:48";"2018-05-04 02:34:48";"";"8484679446";"aapatel410@gmail.com";"";2000;1
+12;"MANSUKH";"PATEL";44;"3204 Village Dr ";"Avenel ";"";7001;"536273";"TEST";"";"Small";"Avenel";8;"2018-05-04 02:35:48";"2018-05-04 02:35:48";"";"2016824886";"mansukh.b.Patel@gmail.com";"";300;1
+13;"NEEL";"PATEL";20;"250 kempsey drive";"North brunswick";"";8902;"845784";"TEST";"";"Large";"N Brunswick Rt 1";7;"2018-05-04 03:09:32";"2018-05-04 03:09:32";"";"8486674085";"neelpatel2398@gmail.com";"";600;1
+14;"JAYESH";"PATADIA";48;"25 Fabiszewski Way";"Parlin";"";8859;"791606";"TEST";"";"Large";"Sayreville";1;"2018-05-04 11:31:22";"2018-05-04 11:31:22";"";"7328575396";"jay_patadia@hotmail.com";"";300;1
+15;"RAJ";"PATEL";20;"2456 Woodbridge Ave";"Edison";"";8817;"536279";"TEST";"";"Small";"Gurley Road";5;"2018-05-04 14:03:26";"2018-05-04 14:03:26";"";"2672210874";"rajpatel311097@gmail.com";"";1200;1
+17;"KARTIK";"SAVALIYA";26;"77 Nelson Ave apt 1";"Jersey City ";"";7307;"387026";"TEST";"";"Medium";"Jersey City";7;"2018-05-04 14:04:01";"2018-05-04 14:04:01";"";"5513589327";"Kartiksavaliya109@gmail.com";"";400;1
+18;"PRIYANK";"PATEL";29;"1235 Huron Road";"North Brunswick";"";8902;"846299";"TEST";"";"Large";"N Brunswick Rt 1";10;"2018-05-04 14:38:27";"2018-05-04 14:38:27";"";"8484488353";"Papatel61@gmail.com";"";600;1
+19;"VASAV";"DAVE";29;"126 Horizon Drive";"Edison";"";8817;"548084";"TEST";"";"Medium";"MCC";5;"2018-05-04 15:16:57";"2018-05-04 15:16:57";"";"9084249735";"astrovasav@gmail.com";"";300;1
+20;"MOHIT";"PATEL";26;"23 Koster Blvd,6A";"Edison ";"";8837;"846439";"TEST";"";"Medium";"Menlo Park";4;"2018-05-04 16:36:39";"2018-05-04 16:36:39";"";"7325898433";"lalu.always31@gmail.com";"";900;1
+21;"MITUL";"AGRAWAL";27;"2456 Woodbridge ave";"Edison";"";8817;"549842";"TEST";"";"Medium";"Gurley Road";9;"2018-05-04 17:04:45";"2018-05-04 17:04:45";"";"2036856238";"agrawalmitul007@gmail.com";"";2000;1
+22;"JEET";"PATEL";20;"2456 Woodbridge Ave";"Edison";"";8817;"536286";"TEST";"";"Medium";"Gurley Road";1;"2018-05-04 17:08:42";"2018-05-04 17:08:42";"";"7328109080";"Jeetpatel9727@gmail.com";"";0;1
+23;"MASOOM";"PATEL";20;"2456 Woodbridge Avenue ";"Edison ";"";8817;"529582";"TEST";"";"Medium";"Gurley Road";7;"2018-05-04 18:16:51";"2018-05-04 18:16:51";"";"7323513399";"masoommjpatel@gmail.com";"";2000;1
+24;"VISHAL";"PATEL";31;"32 Audubon avenue";"Edison";"";8817;"846661";"TEST";"";"Large";"Edison High School";1;"2018-05-05 17:15:34";"2018-05-05 17:15:34";"";"2674677010";"vshal08@gmail.com";"";700;1
+25;"KAMLESH";"TIMBADIYA ";28;"107 ridgeley Avenue ";"Iselin ";"";8830;"848629";"TEST";"";"Medium";"Iselin South";10;"2018-05-07 01:12:58";"2018-05-07 01:12:58";"";"2017366251";"kamleshtimbadiya@gmail.com";"";500;1
+26;"SANJAY ";"TIMBADIYA ";27;"107 ridgeley Avenue ";"Iselin ";"";8830;"848636";"TEST";"";"Medium";"Iselin South";3;"2018-05-07 01:21:29";"2018-05-07 01:21:29";"";"2017366251";"sanjaytimbadiya@gmail.com";"";400;1
+28;"KARAN";"SHARMA";32;"316 Horizon Dr";"Edison ";"";8817;"549718";"TEST";"";"Medium";"MCC";6;"2018-05-07 13:57:55";"2018-05-07 13:57:55";"";"7325015983";"skaran.pt@gmail.com";"";300;1
+29;"MILAN";"PATEL";30;"1039 Fisher Ave";"Secaucus";"";7094;"536239";"TEST";"";"Large";"Secaucus";4;"2018-05-07 14:05:47";"2018-05-07 14:05:47";"";"2016680785";"mpatel.baps@gmail.com";"";2000;1
+32;"DHRUV";"PARMAR";24;"77 Nelson Ave";"Jersey City";"";7307;"549861";"TEST";"";"Large";"Yuvak Parasabha";10;"2018-05-07 14:34:26";"2018-05-07 14:34:26";"";"4049109436";"dhruvparmar7@gmail.com";"";400;1
+33;"OMKAR";"BHUPTANI";34;"700 Grove Street";"Jersey City";"";7310;"387011";"TEST";"";"Large";"Amboy Ave";8;"2018-05-07 15:48:06";"2018-05-07 15:48:06";"";"5188922431";"omkar_bhuptani@hotmail.com";"";2000;1
+34;"NIRAV";"PATEL";35;"3001 Village dr";"Avenel";"";7001;"35";"TEST";"";"Medium";"Avenel";10;"2018-05-07 22:56:23";"2018-05-07 22:56:23";"";"7324769267";"Patelnira@gmail.com";"";600;1
+35;"RAKESH";"PATEL";34;"59 Alpha ave";"Old Bridge";"";8857;"387039";"TEST";"";"Medium";"Old Bridge";10;"2018-05-09 00:52:05";"2018-05-09 00:52:05";"";"8483917866";"Rakeshpatelim@gmail.com";"";2000;1
+36;"GITESH";"PATEL";40;"18 dayton Dr";"Edison";"";8820;"387051";"TEST";"";"Medium";"Hilltop 2";7;"2018-05-09 00:57:36";"2018-05-09 00:57:36";"";"5162815983";"Jayswaminarayan.gp@gmail.com";"";400;1
+37;"DEVANG";"PATEL";23;"81 Lincoln Street";"Jersey City";"";7307;"549722";"TEST";"";"Small";"JC07 West";9;"2018-05-09 01:05:37";"2018-05-09 01:05:37";"";"7179807947";"pateldev2424@gmail.com";"";0;1
+38;"JIGAR";"PATEL";33;"11 Dayton drive apt 75D";"Edison ";"";8820;"549836";"TEST";"";"Small";"Hilltop 1";8;"2018-05-09 01:08:21";"2018-05-09 01:08:21";"";"7329838009";"jigarpatel5@gmail.com";"";300;1
+39;"JAY";"PATEL";21;"52 clay street";"North Brunswick";"";8902;"850753";"TEST";"";"Medium";"N Brunswick Rt 1";5;"2018-05-09 01:16:07";"2018-05-09 01:16:07";"";"7329864255";"jayp7681@gmail.com";"";700;1
+40;"NIRAV";"SHUKLA";39;"37 Kingsbridge Drive";"EDISON";"";8820;"645296";"TEST";"";"Large";"Inman Ave";1;"2018-05-09 01:22:31";"2018-05-09 01:22:31";"";"5167291403";"nirav241@gmail.com";"";300;1
+41;"AMBRISH";"PATEL";30;"82 Princeton Road";"Piscataway ";"";8854;"850757";"TEST";"";"Medium";"Princeton Garden";3;"2018-05-09 01:42:42";"2018-05-09 01:42:42";"";"9123445707";"ambrish_46@hotmail.com";"";400;1
+42;"INDRA";"NAYEE";51;"103 Atlantic Street";"Metuchen";"";8840;"850888";"TEST";"";"Small";"Menlo Park";2;"2018-05-09 12:10:45";"2018-05-09 12:10:45";"";"7326062529";"indra.nayee@gmail.com";"";300;1
+43;"RUCHIRKUMAR";"PATEL";35;"1245 Stockton Dr";"North Brunswick";"";8902;"144782";"TEST";"";"Medium";"N Brunswick Rt 130";4;"2018-05-09 12:58:00";"2018-05-09 12:58:00";"";"7324073676";"accounts.leo@hotmail.com";"";0;1
+44;"RAKESH";"PATEL";40;"Hannah Dr";"Dayton";"";8810;"552287";"TEST";"";"Large";"N Brunswick Rt 130";1;"2018-05-09 20:59:46";"2018-05-09 20:59:46";"";"8482193969";"rakesh772@gmail.com";"";800;1
+46;"VISHAL";"CHAUHAN";34;"462 horizon drive ";"Edison ";"";8817;"536262";"TEST";"";"Large";"MCC";5;"2018-05-09 21:34:08";"2018-05-09 21:34:08";"";"7326881081";"Vishalakpt@gmail.com";"";1200;1
+47;"VAIBHAV ";"SHETH";31;"Horizon Drive";"Edison ";"";8817;"549848";"TEST";"";"XL";"MCC";10;"2018-05-09 21:35:26";"2018-05-09 21:35:26";"";"7327626628";"sheth_147@yahoo.com";"";1000;1
+48;"BHAVIN ";"PATEL";35;"2202 forest haven blvd";"Edison";"";8817;"10";"TEST";"";"Large";"MCC";1;"2018-05-09 21:43:07";"2018-05-09 21:43:07";"";"5519984136";"Bhavin8282@gma.com";"";900;1
+49;"PRATIK";"BHATT";24;"443 college drive";"Edison";"";8817;"851209";"TEST";"";"Medium";"MCC";8;"2018-05-09 21:52:20";"2018-05-09 21:52:20";"";"3136380955";"sandking164@gmail.com";"";1400;1
+50;"ISHVAR";"PANCHANI";32;"12 Martin ave";"Edison ";"";8837;"549862";"TEST";"";"Medium";"Yuvak Parasabha";3;"2018-05-09 23:16:09";"2018-05-09 23:16:09";"";"7325108138";"panchani1217@gmail.com";"";300;1
+51;"SANJAY";"PATEL";35;"35 Norwood Pl";"Edison";"";8817;"sanjayandpatel@yahoo.com";"TEST";"";"Large";"Gurley Road";8;"2018-05-10 13:45:11";"2018-05-10 13:45:11";"";"7325937993";"sanjayandpatel@yahoo.com";"";400;1
+52;"UMANG";"PATEL";26;"77 Nelson avenue";"Jersey city";"";7307;"387022";"TEST";"";"Medium";"JC07 West";5;"2018-05-11 13:25:28";"2018-05-11 13:25:28";"";"5518887348";"up6406@gmail.com";"";1400;1
+53;"SANKET";"PATEL";25;"77 Nelson Ave";"Jersey City";"";7307;"387021";"TEST";"";"Medium";"Yuvak Parasabha";9;"2018-05-12 15:13:17";"2018-05-12 15:13:17";"";"8325440246";"sanketpatel456@gmail.com";"";2000;1
+54;"ALKESH";"DODIA";34;"76 coakley st";"Iselin";"";8830;"386996";"TEST";"";"Medium";"Iselin North";10;"2018-05-12 21:12:29";"2018-05-12 21:12:29";"";"7323318722";"Dodiaalkesh@gmail.com";"";0;1
+56;"NIKIT";"PATEL";28;"25 Aspen Drive ";"North Brunswick ";"";8902;"387035";"TEST";"";"Small";"N Brunswick Rt 1";7;"2018-05-12 22:10:53";"2018-05-12 22:10:53";"";"3474018201";"Nikitp342@gmail.com";"";300;1
+57;"HARISH";"PATEL";42;"125 Irving St, 1";"Jersey City";"";7307;"854707";"TEST";"";"Medium";"JC07 West";8;"2018-05-13 02:30:55";"2018-05-13 02:30:55";"";"2018507299";"patelharish@gmail.com";"";300;1
+58;"KAUSHIK";"PATEL";57;"42 Brighton Way";"North Brunswick";"";8902;"855540";"TEST";"";"Medium";"N Brunswick Rt 1";10;"2018-05-13 21:30:48";"2018-05-13 21:30:48";"";"7328534450";"Shaileshpatel1960@gmail.com";"";300;1
+60;"JANAK";"PATEL";32;"26 Lee St, Apt 1A";"Edison";"";8817;"536258";"TEST";"";"Medium";"Gurley Road";6;"2018-05-14 18:45:03";"2018-05-14 18:45:03";"";"7329862172";"janak.usa85@gmail.com";"";600;1
+61;"BHARGAV";"VYAS";24;"77 nelson ave";"Jersey City";"";7307;"856918";"TEST";"";"Large";"Jersey City";6;"2018-05-15 23:39:54";"2018-05-15 23:39:54";"";"6097214992";"bvyasshopping@gmail.com";"";300;1
+62;"HARSH";"VIRADIYA";24;"84 Charles Street ";"Jersey City";"";7307;"856923";"TEST";"";"Large";"Yuvak Parasabha";7;"2018-05-15 23:44:33";"2018-05-15 23:44:33";"";"2018397867";"hviradiya807@gmail.com";"";2000;1
+63;"OM";"NAYAK";22;"189 Hutton street ";"Jersey City ";"";7307;"856921";"TEST";"";"Large";"Jersey City";4;"2018-05-15 23:44:54";"2018-05-15 23:44:54";"";"8482568663";"omnayak9@gmail.com";"";300;1
+64;"VISHAL";"SANGHVI";37;"145 Carlton Ave, Unit A, First Floor";"Jersey City";"";7306;"552149";"TEST";"";"Medium";"Carlton Ave";8;"2018-05-15 23:49:36";"2018-05-15 23:49:36";"";"5512207856";"vishalpsanghvi@gmail.com";"";400;1
+65;"ANKIT";"PATEL";26;"1706 Timber Oak Rd,";"Edison";"";8820;"856924";"TEST";"";"Small";"Edison Para Yuvak";1;"2018-05-16 00:02:24";"2018-05-16 00:02:24";"";"7089419188";"adpatel0000@yahoo.com";"";400;1
+66;"AKASH";"PATEL";20;"73 st. Pauls ave";"Jersey City, NJ";"";7306;"552151";"TEST";"";"Small";"Jersey City";10;"2018-05-16 00:17:18";"2018-05-16 00:17:18";"";"2012388882";"Patelakash829@gmail.com";"";300;1
+67;"AKASH";"PATEL";18;"96, Poplar St. Apt1";"Jersey City";"";7307;"549838";"TEST";"";"Small";"Jersey City";8;"2018-05-16 00:25:31";"2018-05-16 00:25:31";"";"2016854261";"Akashpatel2699@gmail.com";"";1400;1
+68;"DHRUV";"PATEL";22;"717 Winchester Avenue ";"Union";"";7083;"549843";"TEST";"";"Small";"Union";7;"2018-05-16 00:36:29";"2018-05-16 00:36:29";"";"9084996215";"dhruvusa95@yahoo.co.nz";"";800;1
+69;"RUT";"PATEL";19;"55 Lincoln st";"Jersey City ";"";7307;"856930";"TEST";"";"Large";"Jersey City";6;"2018-05-16 00:40:23";"2018-05-16 00:40:23";"";"5519988790";"Patelrut11@gmail.com";"";300;1
+70;"VARUN";"BRAHMBHATT";24;"2516 Village Drive";"Avenel";"";7001;"549581";"TEST";"";"Medium";"Avenel";2;"2018-05-16 00:41:24";"2018-05-16 00:41:24";"";"2676328084";"varun989898@gmail.com";"";300;1
+71;"SANKET(RAVI)";"PATEL";296;"296 Horizon Drive";"Edison";"";8873;"3";"TEST";"";"Medium";"MCC";4;"2018-05-16 00:56:39";"2018-05-16 00:56:39";"";"7322083322";"spatel3726@yahoo.com";"";300;1
+73;"HITUL";"PATEL";22;"1 spruce st ";"Jersey city";"";7306;"549762";"TEST";"";"Small";"Jersey City";7;"2018-05-16 00:58:18";"2018-05-16 00:58:18";"";"2019363971";"hitulpatel95@gmail.com";"";400;1
+74;"MONARKKUMAR";"THAKKAR";32;"173 W GRAND AVE";"RAHWAY";"";7065;"849522";"TEST";"";"Large";"Amboy Ave";7;"2018-05-16 01:48:09";"2018-05-16 01:48:09";"";"6305427177";"monarkcpa@gmail.com";"";300;1
+75;"JANAK";"KAILA";42;"18 Berkley Blvd";"ISELIN";"";8830;"82911";"TEST";"";"Large";"Avenel";1;"2018-05-16 01:52:17";"2018-05-16 01:52:17";"";"7323721322";"janak.kaila@gmail.com";"";600;1
+76;"MAULIK";"PATEL";28;"16 ferris road edison 08817";"Jersey city";"";8817;"536243";"TEST";"";"Medium";"Jersey City";9;"2018-05-16 02:58:25";"2018-05-16 02:58:25";"";"7326923013";"Maulik.pij@gmail.com";"";400;1
+77;"CHAITANYA ";"DANI";23;"81 Lincoln street ";"Jersey City ";"";7307;"536253";"TEST";"";"XL";"Para Yuvak Sabha";7;"2018-05-16 04:51:22";"2018-05-16 04:51:22";"";"8622132314";"Chaitanya.dani18@gmail.com";"";0;1
+78;"PRAG";"PATEL";34;"18 Player Ave";"Edison";"";8817;"387059";"TEST";"";"Small";"Kilmer Road";1;"2018-05-16 11:26:30";"2018-05-16 11:26:30";"";"2292348008";"pragneshpatel777@gmail.com";"";300;1
+79;"ATUL";"PIPALIYA";25;"157 zabriskie st";"Jersey City ";"";7307;"857362";"TEST";"";"XL";"Yuvak Parasabha";2;"2018-05-16 12:49:27";"2018-05-16 12:49:27";"";"5516896714";"Pipaliyaatul@gmail.com";"";300;1
+80;"VIVEK";"SHAH";26;"75 columbia ave";"Jersey city";"";7307;"6612";"TEST";"";"Medium";"Jersey City";4;"2018-05-16 15:01:07";"2018-05-16 15:01:07";"";"5512478257";"Vivek66122@gmail.com";"";300;1
+81;"VISHAL";"SHAH";32;"8 Dayton Rd";"Edison";"";8817;"857420";"TEST";"";"Large";"Edison High School";9;"2018-05-16 15:32:39";"2018-05-16 15:32:39";"";"9174154132";"Vish.shaw@gmail.com";"";300;1
+82;"BHAVYA";"PATEL";21;"441college drive";"Edison";"";8817;"857452";"TEST";"";"Medium";"Amboy Ave";7;"2018-05-16 17:47:21";"2018-05-16 17:47:21";"";"7327945940";"Bhavyapatel2016@gmail.com";"";300;1
+83;"UDAY SHANKAR";"MISHRA";36;"63 Concord st";"Jersey city";"";7306;"857596";"TEST";"";"Small";"JC07 West";8;"2018-05-16 20:17:17";"2018-05-16 20:17:17";"";"5168511081";"Uday822003@yahoo.co.in";"";300;1
+84;"YASH";"NAIK";22;"26 troy st";"jersey city";"";7307;"856926";"TEST";"";"XL";"Jersey City";10;"2018-05-16 21:50:30";"2018-05-16 21:50:30";"";"2018503896";"Yashnaik110795@gmail.com";"";300;1
+85;"DIPAK";"PATEL";25;"62 Lake Street";"Jersey City ";"";7306;"854724";"TEST";"";"Small";"Carlton Ave";1;"2018-05-16 22:55:40";"2018-05-16 22:55:40";"";"3478069107";"Dipak.patelbaps@yahoo.com";"";900;1
+86;"SURUCH";"PATEL";29;"560 Liberty Avenue ";"Jersey city";"";7307;"	858082";"TEST";"";"Medium";"Yuvak Parasabha";2;"2018-05-17 12:43:53";"2018-05-17 12:43:53";"";"2146064154";"suruch.patel@gmail.com";"";300;1
+87;"YATRIK";"PATEL";25;"13Wales Avenue  Jersey City NJ";"Jersey City ";"";7306;"859316";"TEST";"";"Medium";"Yuvak Parasabha";7;"2018-05-19 04:10:08";"2018-05-19 04:10:08";"";"2016605068";"montu1840@gmail.com";"";400;1
+88;"NISHIT";"THAKKAR";25;"77 nelson";"Jersey city";"";7307;"860234";"TEST";"";"Medium";"JC07 West";9;"2018-05-19 23:29:03";"2018-05-19 23:29:03";"";"9806363298";"Nishit.149@gmail.com";"";300;1
+89;"SETU";"PATEL";19;"222 Horizon Drive";"Edison";"";8817;"842963";"TEST";"";"Small";"MCC";1;"2018-05-21 17:08:46";"2018-05-21 17:08:46";"";"7322984066";"setuvpatel@gmail.com";"";900;1
+90;"ANKUR";"PATEL";33;"376 Alden Way";"North Brunswick";"";8902;"536271";"TEST";"";"Medium";"N Brunswick Rt 130";6;"2018-05-21 18:44:36";"2018-05-21 18:44:36";"";"7325852983";"acp4118@yahoo.com";"";0;1
+91;"VISHAL T";"PATEL";35;"376 Alden Way";"North Brunswick";"";8902;"549712";"TEST";"";"Medium";"N Brunswick Rt 130";8;"2018-05-21 18:50:17";"2018-05-21 18:50:17";"";"7325852994";"Vishaltpatel83@gmail.com";"";300;1
+92;"KASHYAP";"DESA";30;"24 Lee ST, 3B";"Edison";"";8817;"549764";"TEST";"";"XL";"Gurley Road";2;"2018-05-21 19:28:37";"2018-05-21 19:28:37";"";"7323721887";"kashyap.desai@usa.baps.org";"";300;1
+93;"KASHYAP";"DESAI";29;"24 Lee ST, 3B";"Edison";"";8817;"549764";"TEST";"";"XL";"Gurley Road";999;"2018-05-21 19:29:56";"2018-05-21 19:29:56";"";"7323721887";"kashyapdesaiusa@gmail.com";"";0;1
+94;"DEVANG";"PATEL";27;"77 nelson ave";"jersey city";"";7307;"862021";"TEST";"";"Large";"Yuvak Parasabha";4;"2018-05-21 21:45:54";"2018-05-21 21:45:54";"";"8148445376";"devangdpatel27@gmail.com";"";300;1
+95;"SAVAN";"PATEL";24;"258 North St";"Jersey City";"";7307;"862361";"TEST";"";"Medium";"Para Yuvak Sabha";7;"2018-05-22 13:57:12";"2018-05-22 13:57:12";"";"4693056440";"patelsavan1812@gmail.com";"";700;1
+96;"HARI";"PATEL";23;"28 Henry st ";"Edison";"";8820;"552145";"TEST";"";"Small";"Inman Ave";7;"2018-05-25 13:29:36";"2018-05-25 13:29:36";"";"7324297346";"35haripatell@gmail.com";"";300;1
+97;"VANDAN";"PATEL";21;"122 Lake St";"Jersey City";"";7306;"387012";"TEST";"";"Large";"Carlton Ave";2;"2018-05-25 14:57:44";"2018-05-25 14:57:44";"";"2013548997";"Vandan141997@gmail.com";"";700;1
+98;"PANKAJ";"PATEL";52;"  1";"North Brunswick";"";8902;"552141";"TEST";"";"Large";"N Brunswick Rt 1";5;"2018-05-26 13:32:49";"2018-05-26 13:32:49";"";"7326406656";"pankajpatel241065@gmail.com";"";300;1
+99;"YASH";"SOLANKI ";32;"31 gateway avenue ";"Iselin ";"";8830;"827268";"TEST";"";"Large";"Avenel";2;"2018-05-28 00:08:40";"2018-05-28 00:08:40";"";"2019828116";"Yashsolanki980@gmail.com";"";2000;1
+100;"BIRJU";"PATEL";29;"109 Rivendell way";"Edison";"";8817;"552143";"TEST";"";"Medium";"East Brunswick";10;"2018-05-29 16:44:37";"2018-05-29 16:44:37";"";"7328815051";"Happybirju@gmail.com";"";500;1
+101;"VIKRAM";"PATEL";45;"1608 Azalea Drive";"North Brunswick";"";8902;"536249";"TEST";"";"Small";"N Brunswick Rt 130";7;"2018-06-02 02:32:49";"2018-06-02 02:32:49";"";"8627014199";"patelvikramd@yahoo.ca";"";300;1
+102;"NIKUNJ";"PATEL";33;"12 Dayton";"Edison";"";8820;"387052";"TEST";"";"Medium";"Hilltop 2";10;"2018-06-02 21:45:54";"2018-06-02 21:45:54";"";"7325896242";"niks.baps@gmail.com";"";400;1
+103;"DHRUV";"PAREL";28;"188 Carlton ave";"Piscataway";"";8854;"872527";"TEST";"";"Medium";"Princeton Garden";5;"2018-06-03 23:19:18";"2018-06-03 23:19:18";"";"6105738384";"dhruvsmarterical@gmail.com";"";500;1
+104;"AAKASH";"PATEL";20;"25 Norwood place ";"Edison";"";8817;"549838";"TEST";"";"Large";"MCC";1;"2018-06-03 23:43:13";"2018-06-03 23:43:13";"";"6092225524";"Patelaakash278@gmail.com";"";1000;1
+105;"GHANSHYAM ";"PARMAR ";25;"2500 Woodbridge Ave";"Edison ";"";8817;"None ";"TEST";"";"Small";"Gurley Road";5;"2018-06-04 01:03:18";"2018-06-04 01:03:18";"";"4843877290";"ghanshyam2baps@gmail.com";"";800;1
+106;"VISHWAS";"DARJI";24;"151 Royal Dr";"Piscataway";"";8854;"010";"TEST";"";"Medium";"Para Yuvak Sabha";3;"2018-06-04 03:03:32";"2018-06-04 03:03:32";"";"5512259814";"darji.vishwas94@gmail.com";"";400;1
+107;"BHAUMIK";"PATEL";25;"410 Cheryl dr";"Iselin ";"";8830;"872854";"TEST";"";"Small";"Iselin North";4;"2018-06-04 13:47:50";"2018-06-04 13:47:50";"";"4092030322";"bhaumik803@gmail.com";"";1200;1
+108;"ADITYA";"SHAH";34;"124 Riverbend Drive";"North Brunswick ";"";8902;"872898";"TEST";"";"Large";"Iselin South";5;"2018-06-04 14:11:57";"2018-06-04 14:11:57";"";"2016824033";"adi5544@live.com";"";300;1
+109;"MONIL";"PATEL";28;"442 Horizon Drive";"Edison";"";8817;"549846";"TEST";"";"Medium";"Edison Para Yuvak";2;"2018-06-04 16:32:22";"2018-06-04 16:32:22";"";"6263771056";"monil1690@gmail.com";"";2000;1
+110;"VIVEK";"PATEL";25;"293A Carlton ave";"Piscataway ";"";8854;"387009";"TEST";"";"Small";"Yuvak Parasabha";1;"2018-06-04 17:53:25";"2018-06-04 17:53:25";"";"55135";"Vivek2716@gmail.com";"";800;1
+111;"KETU";"PATEL";18;"386 College Drive";"Edison";"";8817;"873108";"TEST";"";"Small";"MCC";8;"2018-06-04 22:12:13";"2018-06-04 22:12:13";"";"8486671179";"patelketu09@gmail.com";"";600;1
+112;"HARSH";"PATEL";24;"151 royal drive";"Piscataway";"";8854;"873400";"TEST";"";"Medium";"Para Yuvak Sabha";5;"2018-06-05 20:23:37";"2018-06-05 20:23:37";"";"2019203926";"harsh_11patel@yahoo.com";"";600;1
+113;"MITKUMAR";"PATEL";27;"81 Lincoln Street";"Jersey City";"";7307;"387023";"TEST";"";"XXL";"JC07 West";5;"2018-06-05 21:41:19";"2018-06-05 21:41:19";"";"7324297865";"mitpatel3123@gmail.com";"";900;1
+115;"KALPESH";"PATEL";34;"1001 Westminster Blvd";"Parlin";"";8859;"874981";"TEST";"";"Large";"Staten Island";1;"2018-06-08 15:06:09";"2018-06-08 15:06:09";"";"6313120601";"kalpeshgs@gmail.com";"";300;1
+117;"HARDIK ";"SARVAIYA ";24;"2106 Merrywood dr";"Edison ";"";8817;"876457";"TEST";"";"XL";"Edison Para Yuvak";6;"2018-06-10 06:15:42";"2018-06-10 06:15:42";"";"6097213966";"hardksarvaiya8702@gmail.com";"";300;1
+118;"DIVYANG";"PATEL";37;"22 Kemmore Road";"Edison";"";8817;"549813";"TEST";"";"Medium";"Edison High School";2;"2018-06-10 19:04:35";"2018-06-10 19:04:35";"";"7329107382";"divyangpatel58@yahoo.com";"";300;1
+119;"KEYUR";"PATEL";41;"59 Paulison Avenue";"Passaic";"";7055;"876982";"TEST";"";"Medium";"Clifton";3;"2018-06-11 00:28:30";"2018-06-11 00:28:30";"";"2017570835";"patelkeyur@gmail.com";"";0;1
+120;"SAPAN";"PATEL";37;"5300 Blue Ridge Ct Apt#5331 ";"WALLINGTON";"";7057;"Sapan Patel ";"TEST";"";"Large";"Clifton";3;"2018-06-11 00:48:17";"2018-06-11 00:48:17";"";"2016213453";"sapan133@gmail.com";"";300;1
+121;"RAVI";"THAKKER";40;"15 Essex ct ";"Maywood ";"";7607;"876996";"TEST";"";"XL";"Clifton";3;"2018-06-11 01:20:46";"2018-06-11 01:20:46";"";"2019521678";"ravitakki@icloud.com";"";900;1
+123;"SWAPNIL";"PATEL";18;"84 Charlton ave";"Lodi";"";7644;"876999";"TEST";"";"Medium";"Clifton";4;"2018-06-11 01:31:07";"2018-06-11 01:31:07";"";"2017078620";"sapi4859@gmail.com";"";700;1
+125;"HIREN";"BHATT";34;"123 Church St";"Lodi";"";7644;"877023";"TEST";"";"Medium";"Amboy Ave";9;"2018-06-11 03:10:46";"2018-06-11 03:10:46";"";"6313577741";"hiren.i.bhatt@gmail.com";"";300;1
+126;"HEMENDRA";"PATEL";45;"129 Cloverdale Ave";"Paramus";"";7652;"HP129";"TEST";"";"Large";"Clifton";7;"2018-06-11 11:06:29";"2018-06-11 11:06:29";"";"2012862037";"hemendra.patel@gmail.com";"";800;1
+127;"MEHUL";"PATEL";31;"Cole Street ";"Elmwood ";"";7407;"877207";"TEST";"";"Large";"Clifton";3;"2018-06-11 13:25:27";"2018-06-11 13:25:27";"";"2019828324";"mehul785@yahoo.com";"";700;1
+128;"VIRAL";"PATEL";23;"360 W PLEASANTVIEW AVE;, Apt#600H";"HACKENSACK";"";7601;"877237";"TEST";"";"Medium";"Clifton";8;"2018-06-11 14:12:23";"2018-06-11 14:12:23";"";"8608494162";"viralpatel5757@gmail.com";"";400;1
+130;"DARSHAN";"PARMAR";26;"212 Harrison ave floor 2";"Harrison";"";7029;"877238";"TEST";"";"Large";"Clifton";6;"2018-06-11 14:18:22";"2018-06-11 14:18:22";"";"8622948968";"parmar.darshan@rocketmail.com";"";400;1
+131;"VIMAL";"PATEL";40;"103 Paramus road";"Paramus ";"";7652;"877013";"TEST";"";"Large";"Clifton";3;"2018-06-11 19:12:55";"2018-06-11 19:12:55";"";"5519985585";"rivimal79@yahoo.com";"";400;1
+132;"KAMLESH";"DONGA";42;"95 Pendleton place ";"Old Bridge ";"";8857;"387041";"TEST";"";"XL";"Matawan";3;"2018-06-11 23:52:24";"2018-06-11 23:52:24";"";"7328299499";"Kamaldonga@yahoo.com";"";500;1
+133;"DARSHAN";"PATEL";23;"15 West Airmount Road";"Mahwah";"";7430;"879659";"TEST";"";"Small";"Clifton";6;"2018-06-15 07:16:50";"2018-06-15 07:16:50";"";"2012201107";"dpdarsh94@gmail.com";"";300;1
+134;"NISHAL";"PATEL ";26;"1 Dayton dr Apt 11c ";"Edison ";"";8820;"549826";"TEST";"";"Medium";"Hilltop 1";5;"2018-06-15 10:36:52";"2018-06-15 10:36:52";"";"7327999482";"Patelnishal186@gmail.com";"";400;1
+135;"HARESH";"CHUDGAR";28;"68A Zabriskie St, #1";"Jersey City";"";7307;"881480";"TEST";"";"Medium";"JC07 East";3;"2018-06-16 19:54:54";"2018-06-16 19:54:54";"";"4134068560";"haresh.chudgar@gmail.com";"";300;1
+136;"VRAJLAL";"MANGROLIA";45;"30 nelkin drive";"Wallington ";"";7057;"881477";"TEST";"";"Medium";"Clifton";5;"2018-06-16 19:56:25";"2018-06-16 19:56:25";"";"9173991653";"v_mangrolia@yahoo.com";"";300;1
+137;"ASHISH";"RANA";39;"175 Broadway, Apt D-5";"Passaic";"";7055;"763336";"TEST";"";"Large";"Clifton";3;"2018-06-17 20:17:41";"2018-06-17 20:17:41";"";"8625712936";"rana.ashish2900@gmail.com";"";400;1
+138;"DHAVAL";"PATEL";30;"225 beacon ave";"Jersey city";"";7306;"536255";"TEST";"";"XXL";"Jersey City";3;"2018-06-18 01:14:55";"2018-06-18 01:14:55";"";"2016821848";"dhawalptl4@gmail.com";"";600;1
+139;"ANKUR";"BAROT";34;"206 Horizon Drive";"Edison";"";8817;"19";"TEST";"";"Medium";"MCC";8;"2018-06-18 02:28:23";"2018-06-18 02:28:23";"";"5512081823";"ankurbarot@gmail.com";"";600;1
+140;"SMIT";"PATEL";22;"124 Main Street ";"Edison ";"";8837;"826455";"TEST";"";"Medium";"Yuvak Parasabha";6;"2018-06-18 04:02:01";"2018-06-18 04:02:01";"";"7323181313";"Smitpatel5123@gmail.com";"";2000;1
+141;"MANALI";"BHATT";34;"123 Church St";"Lodi";"";7644;"856956";"TEST";"";"Medium";"Clifton";999;"2018-06-20 14:32:37";"2018-06-20 14:32:37";"";"6313577741";"hirenibhatt@gmail.com";"";0;1
+142;"HIREN";"BHATT";34;"123 Church St";"Lodi";"";7644;"856956";"TEST";"";"Medium";"Clifton";999;"2018-06-20 14:37:18";"2018-06-20 14:37:18";"";"6313577741";"hirenibhatt@gmail.com";"";0;1
+143;"ANKUR";"MODI";43;"209 personage road";"Edison";"";8820;"887604";"TEST";"";"Large";"Menlo Park";10;"2018-06-25 01:12:20";"2018-06-25 01:12:20";"";"9085027276";"Ankuramodi@rediffmail.com";"";300;1
+144;"TEJAS";"PATEL";38;"1656 Ohio ave";"North Brunswick";"";8902;"387036";"TEST";"";"Small";"N Brunswick Rt 1";6;"2018-06-27 01:24:20";"2018-06-27 01:24:20";"";"7324234896";"tejasp213@gmail.com";"";400;1
+146;"PARTH ";"MODI";21;"23 Minebrook Road Apt 63A ";"Edison";"";8820;"574508";"TEST";"";"Medium";"Para Yuvak Sabha";10;"2018-06-29 01:11:19";"2018-06-29 01:11:19";"";"7329104709";"pmodi817@gmail.com";"";400;1
+147;"SHARAD";"PATEL";29;"104 Astor Lane ";"Franklin park ";"";8873;"387038";"TEST";"";"Medium";"Somerset";6;"2018-06-29 02:01:55";"2018-06-29 02:01:55";"";"7327634370";"ssp0307@gmail.com";"";800;1
+148;"VISHAL";"JHAGADIAWALA";37;"20 n evergreen Rd ";"Edison";"";8837;"549855";"TEST";"";"Large";"JFK";3;"2018-06-29 22:47:09";"2018-06-29 22:47:09";"";"7325127706";"vishal.jhagadiawala@gmail.com";"";300;1
+149;"PIYUSH";"BABARIA";34;"20n evergreen road";"Edison";"";8837;"892369";"TEST";"";"Medium";"JFK";5;"2018-06-29 22:54:39";"2018-06-29 22:54:39";"";"2014923430";"Piyush.babaria@gmail.com";"";300;1
+150;"BHAVIN";"PATEL";35;"2202 forest haven blvd";"Edison";"";8817;"536281";"TEST";"";"Medium";"MCC";8;"2018-06-29 22:56:05";"2018-06-29 22:56:05";"";"5519984136";"Bhavin8282@gmail.com";"";600;1
+151;"AMIT";"PATEL";30;"23 Monmouth Ave";"EDISON";"";8820;"892367";"TEST";"";"Large";"JFK";9;"2018-06-29 22:58:54";"2018-06-29 22:58:54";"";"7325584778";"avpatel.257@gmail.com";"";300;1
+152;"JIGAR";"BAROT";32;"395";"Edison";"";8817;"892380";"TEST";"";"Medium";"Edison Para Yuvak";10;"2018-06-29 23:41:10";"2018-06-29 23:41:10";"";"6315071542";"Worldvision5186@gmail.com";"";400;1
+154;"MICKY";"PATEL";31;"North street ";"Old Bridge ";"";8857;"892434";"TEST";"";"Medium";"Sayreville";6;"2018-06-30 01:18:58";"2018-06-30 01:18:58";"";"7324074182";"micky6530@gmail.com";"";600;1
+155;"SATHISH";"ELUMALAI ";39;"705 edison glen terrace ";"Edison";"";8837;"509484";"TEST";"";"Medium";"Amboy Ave";6;"2018-06-30 01:36:37";"2018-06-30 01:36:37";"";"8482482409";"Sathish.elumalai@gmail.com";"";400;1
+156;"NIRVISH";"PATEL";34;"247 W locust ave";"Edison";"";8820;"1234";"TEST";"";"Medium";"Inman Ave";1;"2018-06-30 01:42:48";"2018-06-30 01:42:48";"";"9095477215";"nirvishpatel11@gmail.com";"";900;1
+157;"BHAVIK";"NAIK";34;"27 Addison Place, Apt D";"Clifton ";"";7012;"892513";"TEST";"";"Medium";"Clifton";6;"2018-06-30 03:06:59";"2018-06-30 03:06:59";"";"7328583378";"bhavikmca@hotmail.com";"";300;1
+158;"HEMISH";"P KAPADIA";34;"140 Hepburn Rd Apt 12J";"Clifton ";"";7012;"892516";"TEST";"";"Small";"Clifton";2;"2018-06-30 03:22:18";"2018-06-30 03:22:18";"";"9167175958";"Hemish.us@gmail.com";"";300;1
+159;"NILESH";"JANI";40;"1 Sinclair Ave";"Edison";"";8820;"387045";"TEST";"NOT PAID";"Medium";"Inman Ave";999;"2018-06-30 13:05:04";"2018-06-30 13:05:04";"";"7328779388";"Niljani@yahoo.com";"";0;1
+160;"ASHISH";"RAIYANI";34;"47 judson st";"EDISON";"";8837;"893072";"TEST";"";"Large";"JFK";3;"2018-06-30 13:25:58";"2018-06-30 13:25:58";"";"2012537709";"ASHISH.RAIYANI@GMAIL.COM";"";300;1
+161;"HANI";"PATEL";25;"78 union ave ";"Edison";"";8820;"536254";"TEST";"";"Small";"Edison Para Yuvak";10;"2018-06-30 14:22:18";"2018-06-30 14:22:18";"";"5512478077";"hanipatel81@yahoo.com";"";2000;1
+162;"HITESH";"PANDYA";38;"47 Dundee Ave";"Iselin";"";8830;"764512";"TEST";"NOT PAID";"Medium";"Iselin North";1;"2018-06-30 14:40:45";"2018-06-30 14:40:45";"";"6314168840";"pandyahitesh@yahoo.com";"";900;1
+163;"ALPESH";"BHALALA";38;"29 Firethorn Dr";"Edison";"";8820;"549713";"TEST";"";"Small";"JFK";9;"2018-06-30 16:05:17";"2018-06-30 16:05:17";"";"2018816986";"alpesh.bhalala@gmail.com";"";300;1
+164;"ABHINAV";"SONI";35;"10 reins ct";"Somerset";"";8873;"893281";"TEST";"";"Large";"Somerset";4;"2018-06-30 19:54:39";"2018-06-30 19:54:39";"";"2015654940";"AR.ABHINAV@GMAIL.COM";"";400;1
+165;"NIRAV";"M";0;"";"";"";0;"766160";"TEST";"NOT PAID";"";"";2;"";"";"";"";"nirav_mistry1977@yahoo.com";"";0;1
+166;"Ankur";"Patel";28;"";"";"";0;"";"TEST";"NOT PAID";"small";"Iselin South";5;"";"";"";"7327620202";"ankpatel11@yahoo.com";"";0;1
+167;"samarth";"Patel";26;"";"";"";0;"";"TEST";"";"medium";"Edison HighSchool";8;"";"";"";"6823658688";"rewsamarth@gmail.com";"";0;1
